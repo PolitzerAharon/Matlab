@@ -3,7 +3,7 @@
 ## Overview
 This repository contains implementations of the Black-Scholes option pricing model using various numerical methods including Finite Element Method (FEM) and Finite Difference Method (FDM). The implementation focuses on both European and American options, with capabilities for analyzing call and put options.
 
-![Figure1](./Poster.jpg)
+![Figure1](./Poster_1.png)
 
 ## Features
 - Multiple implementation methods:
